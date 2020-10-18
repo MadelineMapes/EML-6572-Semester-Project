@@ -14,17 +14,3 @@
 
 # all units are mks
 
-# *******************************************************************************************************
-# Methods, inputs, and return types:
-
-# dataAverage(experimentalData1: list, ..., experimentalData5: list) = averageData: list
-
-# inertiaCalc(length: float, base: float, height: float) = inertia: float
-
-# theoDataCalc(length: float, inertia: float, youngsModulus: float, load: list) = theoData: list
-
-# uncertaintyCalc(averageExperimentalData: list, simulatedData: list) = error: list
-
-# leastSquaresCalc(error: list, load: list) = leastSquaresCoefficients: 2x1 matrix
-
-# *******************************************************************************************************
